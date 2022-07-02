@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  text-align: justify;
+  font-size: 100%;
+  background-color: #c6d9ee;
+}
+
+h1 {
+  text-align: right;
+  font-size: 300%;
+}
+
+span {
+  color: red;
+  font-family: "Comic Sans", cursive;
+}
+
+h2 {
+  font-size: 300%;
+  font-family: "Comic Sans", monospace;
+  font-variant: small-caps;
+}
+
+strong {
+  color: rgb(210, 105, 30);
+}
+
+time {
+  color: rgb(255, 140, 0);
+}
+
+em {
+  color: rgb(0, 128, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+p {
+  line-height: 30px;
+  text-indent: 50px;
+}
+
+adress {
+  text-align: center;
+  display: block;
+  font-style: italic;
+  font-size: 80%;
+  margin-bottom: 40px;
+}
+
+.float-footer {
+  text-align: center;
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  border-top: 2px black solid;
+  font-size: 13px;
+  height: 30px;
+  line-height: 25px;
+  clear: both;
+}
+
+a {
+  color: blue;
+  font-style: italic;
+}
+
+.autor-curso {
+  font-style: normal;
+}
